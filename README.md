@@ -30,12 +30,12 @@
 
 |             原版最后更新             |             简中版最后更新             |             繁中版最后更新             |
 | :----------------------------------: | :------------------------------------: | :------------------------------------: |
-| [![原版最后更新][en-check]](en-repo) | [![简中版最后更新][zh-check]](zh-repo) | [![繁中版最后更新][tw-check]](tw-repo) |
+| [![原版最后更新][en-check]][en-repo] | [![简中版最后更新][zh-check]][zh-repo] | [![繁中版最后更新][tw-check]][tw-repo] |
 
 [en-check]: https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap.svg?style=for-the-badge
 [en-repo]: https://github.com/kamranahmedse/developer-roadmap
-[zh-check]: https://img.shields.io/github/last-commit/seognil/developer-roadmap.svg?style=for-the-badge
-[zh-repo]: https://github.com/seognil/developer-roadmap
+[zh-check]: https://img.shields.io/github/last-commit/seognil/developer-roadmap-chinese-simplified.svg?style=for-the-badge
+[zh-repo]: https://github.com/seognil/developer-roadmap-chinese-simplified
 [tw-check]: https://img.shields.io/github/last-commit/goodjack/developer-roadmap-chinese.svg?style=for-the-badge
 [tw-repo]: https://github.com/goodjack/developer-roadmap-chinese
 
