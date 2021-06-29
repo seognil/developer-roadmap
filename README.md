@@ -1,3 +1,13 @@
+# Deprecated
+
+原始的 Repo 已经内置了翻译，直接去看就好，本翻译不再更新：  
+https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese
+
+---
+
+# Legacy
+
+
 ![Web 开发者 - 2020](https://i.imgur.com/NNyc9QM.png)
 
 > 在 2020 年成为一个 Web 开发者
